@@ -13,8 +13,8 @@ TinyGPSPlus gps;
 const char* ssid = "”;  // your network SSID (name) 
 const char* password = "”;  // your network password
 
-unsigned long myChannelNumber = ;
-const char * myWriteAPIKey = "";
+unsigned long myChannelNumber = ; //your channel number
+const char * myWriteAPIKey = ""; // your chennel API key
 
 //temperature sensor
 int analogtemp = A0;                     //temp analog Value
