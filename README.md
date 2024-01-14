@@ -1,6 +1,6 @@
 # IOT-based-Soldier-Health-Monitoring-and-Position-Tracking-System
 
-**Introduction : **
+**Introduction :**
 
 The IoT-based Soldier Health Monitoring and Position Tracking System is a cutting-edge solution designed to enhance the overall well-being and operational effectiveness of military personnel. This system integrates advanced Internet of Things (IoT) technologies to continuously monitor the health parameters of soldiers in real-time, as well as track their positions during various missions and operations.
 
