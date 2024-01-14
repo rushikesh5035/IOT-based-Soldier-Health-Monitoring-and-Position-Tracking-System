@@ -34,4 +34,7 @@ The IoT-based Soldier Health Monitoring and Position Tracking System utilizes ad
   2)	Proteus 
   3)	Thing-speak
 
+**Proposed Methodology :**
+
+<img width="345" alt="Block Diagram" src="https://github.com/rushikesh5035/IOT-based-Soldier-Health-Monitoring-and-Position-Tracking-System/assets/155529923/8487200e-8430-43cc-84b8-531319959271">
 
