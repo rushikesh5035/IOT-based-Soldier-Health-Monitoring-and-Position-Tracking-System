@@ -16,4 +16,22 @@ Traditional methods of monitoring soldier health and tracking their positions of
 The IoT-based Soldier Health Monitoring and Position Tracking System utilizes advanced sensors and communication technologies to address the identified challenges:
   1) Health Monitoring: Temperature Sensor, Heart Rate Sensor, Oxygen Level Sensor.
   2) Position Tracking: GPS (Global Positioning System).
-  3) Communication Enhancement: GSM (Global System for Mobile Communications) and Wi-Fi Module. 
+  3) Communication Enhancement: GSM (Global System for Mobile Communications) and Wi-Fi Module.
+
+**Hardware Requirement :**
+
+  1)	ESP 32
+  2)	Temperature Sensor (LM35)
+  3)	Heart Rate & Oxygen Level Sensor (MAX30100)
+  4)	GPS (NEO-6M)
+  5)	GSM (SIM 900A)
+  6)	LCD Display (16*2) 
+  7)	Battery (12V)
+
+**Software Requirement:**
+
+  1)	Arduino IDE 
+  2)	Proteus 
+  3)	Thing-speak
+
+
